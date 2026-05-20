@@ -60,7 +60,7 @@ while True:
 client_socket.close()
 ```
 ## OUPUT
-<img width="881" height="1051" alt="image" src="https://github.com/user-attachments/assets/395737ee-f496-4230-8af2-b229b4ec4222" />
+<img width="932" height="1157" alt="image" src="https://github.com/user-attachments/assets/a61a730f-a794-4806-9db1-3157d2f6a529" />
 <img width="846" height="1047" alt="image" src="https://github.com/user-attachments/assets/bc148ed8-2a03-4d78-ae83-b509c5c3bc73" />
 
 ## RESULT
